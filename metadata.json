@@ -1,0 +1,5 @@
+{
+  "name": "BubbleSling Physics",
+  "description": "A minimalist, Apple-inspired physics game where you guide a glowing orb through warm, serene environments.",
+  "requestFramePermissions": []
+}
